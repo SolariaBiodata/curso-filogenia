@@ -94,3 +94,15 @@ Repasaremos lo que hemos aprendido respecto a los métodos de alineamiento múlt
 ### Instrucciones (Parte 2)
 1. Dirigirse a la dirección https://www.ebi.ac.uk/Tools/msa/muscle/
 2. Repetiremos los pasos 3 al 8 de la Parte 1 de este mismo ejercicio.
+
+
+## Ejercicio 06: Selección de modelos
+### Descripción
+Vamos a hacer un ejercicio de selección de modelos
+
+### Instrucciones (Parte 1)
+1. Dirigirse a la dirección http://iqtree.cibiv.univie.ac.at/
+2. Seleccionar la pestaña de selección de modelo
+3. En la sección de entradas, mediante el botón 'Browse' Busca tu alineamiento seleccionalo.
+4. En la sección de opciones selecciona un criterio de selección.
+5. Clic en el botón de 'Submit' y esperar a los resultados.
