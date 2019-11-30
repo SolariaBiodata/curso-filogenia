@@ -7,7 +7,7 @@ permalink: /sesion02.html
 ## Sesión Práctica del Día 02
 
 ### Descripción
-En esta sesión aprenderemos lo necesario para realizar reconstrucciones filogenéticas, interpretar cómo se relacionan entre ellos y renderizar gráficos listos para la publicación.
+En esta sesión aprenderemos lo necesario para realizar reconstrucciones filogenéticas, interpretar cómo se relacionan filogenéticamente las secuencias y renderizar gráficos listos para la publicación.
 
 ### Requisitos
 
@@ -85,7 +85,7 @@ En este ejercicio, utilizaremos el árbol generado en formato Newick para modifi
     - Transformación
     - Enraizamiento
 
-## Ejercicio 02: Renderizado
+## Ejercicio 03: Renderizado
 ### Descripción
 En este último ejercicio, realizaremos la importación del árbol en formato vectorial en un software de diseño gráfico gratuito, que puede ayudarnos a agregar elementos visuales y cambiar de último momento la apreciación de colores, o la inclusión de más elementos gráficos.
 ### Instrucciones
