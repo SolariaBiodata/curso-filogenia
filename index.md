@@ -14,6 +14,5 @@ Recuerda que debes dar clic en el titulo de cada sesión para poder visualizar e
 4. Filtros de Búsqueda
 5. Taxonomy y Popset
 ### [Ejercicios de la Sesión 02](sesion02.md)
-1. Reconstrucción Filogenética
-2. Generación de Figuras
-3. Renderizado
+1. Alineamiento con MEGA
+2. Alineamiento Online
