@@ -77,32 +77,13 @@ Con este ejercicio, repasaremos algunos filtros adicionales en la búsqueda de s
 3. Apreciaremos el tamaño de la selección resultante
 4. Descargaremos las primeras 20 secuencias, con el nombre de `rpb2.fasta`
 
-## Ejercicio 05: Alineamiento Múltiple de Secuencias
+## Ejercicio 05: Taxonomy y Popset
 ### Descripción
-Repasaremos lo que hemos aprendido respecto a los métodos de alineamiento múltiple de secuencias, utilizando el algoritmo de alineamiento global con las secuencias del gen _rpb2_ o el gen _ha1_ que ya hemos descargado previamente.
-
-### Instrucciones (Parte 1)
-1. Dirigirse a la dirección https://www.ebi.ac.uk/Tools/msa/clustalo/
-2. Seleccionar el tipo de molécula a DNA.
-3. Pegar el contenido del archivo de secuencias o cargarlo desde la ventana que se abre al dar clic en 'Examinar'.
-4. Seleccionar el formato de salida a Pearson/FASTA.
-5. Clic en el botón de 'Submit' y esperar a los resultados.
-6. Descargar el alineamiento resultante dando clic derecho y 'Guardar Como... '
-7. Daremos clic en el botón 'Result Viewers' y después en `MView`
-8. Descargaremos también la visualización.
-
-### Instrucciones (Parte 2)
-1. Dirigirse a la dirección https://www.ebi.ac.uk/Tools/msa/muscle/
-2. Repetiremos los pasos 3 al 8 de la Parte 1 de este mismo ejercicio.
-
-
-## Ejercicio 06: Selección de modelos filogenéticos
-### Descripción
-Vamos a hacer un ejercicio de selección de modelos
-
-### Instrucciones (Parte 1)
-1. Dirigirse a la dirección http://iqtree.cibiv.univie.ac.at/
-2. Seleccionar la pestaña de selección de modelo
-3. En la sección de entradas, mediante el botón 'Browse' Busca tu alineamiento seleccionalo.
-4. En la sección de opciones selecciona un criterio de selección.
-5. Clic en el botón de 'Submit' y esperar a los resultados.
+Con este ejercicio, recuperaremos secuencias que ya han sido validadas en un análisis de tipo filogenético.
+### Instrucciones
+1. En NCBI Taxonomy, buscaremos El organismo `Fusarium`.
+2. Seleccionaremos la casilla de Popset, desde la interfaz de búsqueda.
+3. Clic en el botón GO.
+4. Daremos clic en el número indicado a un lado derecho del campo `Fusarium`.
+5. En el campo de búsqueda avanzada, teclearemos `AND rpb2`.
+6. Descargaremos algunos de los popsets encontrados en esta búsqueda.
