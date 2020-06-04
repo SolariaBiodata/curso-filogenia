@@ -48,7 +48,7 @@ Repasaremos lo que hemos aprendido respecto a los métodos de alineamiento múlt
 
 ### Instrucciones (Parte1)
 
-1. Dirigirse a la dirección https://www.ebi.ac.uk/Tools/msa/clustalo/
+1. Dirigirse a la dirección (https://www.ebi.ac.uk/Tools/msa/clustalo/)
 2. Seleccionar el tipo de molécula a DNA.
 3. Pegar el contenido del archivo de secuencias o cargarlo desde la ventana que se abre al dar clic en 'Examinar'.
 4. Seleccionar el formato de salida a Pearson/FASTA.
@@ -58,9 +58,9 @@ Repasaremos lo que hemos aprendido respecto a los métodos de alineamiento múlt
 8. Descargaremos también la visualización.
 
 ### Instrucciones (Parte 2)
-1. Dirigirse a la herramienta de https://www.ebi.ac.uk/Tools/msa/mafft/
+1. Dirigirse a la herramienta de (https://www.ebi.ac.uk/Tools/msa/mafft/)
 2. Repetiremos los pasos 3 al 8 de la Parte 1 de este mismo ejercicio.
 
 ### Instrucciones (Parte 3)
-1. Dirigirse a la herramienta de https://www.ebi.ac.uk/Tools/msa/tcoffee/
+1. Dirigirse a la herramienta de (https://www.ebi.ac.uk/Tools/msa/tcoffee/)
 2. Repetiremos los pasos 3 al 8 de la Parte 1 de este mismo ejercicio.
