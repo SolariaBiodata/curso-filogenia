@@ -87,3 +87,33 @@ Con este ejercicio, recuperaremos secuencias que ya han sido validadas en un an�
 4. Daremos clic en el número indicado a un lado derecho del campo `Fusarium`.
 5. En el campo de búsqueda avanzada, teclearemos `AND rpb2`.
 6. Descargaremos algunos de los popsets encontrados en esta búsqueda.
+
+##Instalación de programas en Ubuntu
+###Lineas de comando para FigTree:
+Descargar el archivo de programa
+
+	wget https://github.com/rambaut/figtree/releases/download/v1.4.4/FigTree_v1.4.4.tgz
+
+Desempaquetar
+
+	tar -xzvf FigTree_v1.4.4.tgz
+
+Instalar java:	
+	sudo apt install openjdk-11-jre-headless
+
+Ejecutar FigTree:
+
+	java -jar figtree.jar 
+
+###Lineas de comando para MEGA:
+
+Descargar el archivo desde [MEGA](https://www.megasoftware.net/)
+
+Instalar el paquete de instalación local
+
+	sudo apt install gdebi-core
+
+Instalar el MEGA
+
+	sudo gdebi -n mega_11.0.9-1_amd64.deb 
+
