@@ -1,7 +1,7 @@
 ---
 permalink: /sesion02.html
 ---
-![alt text](https://solariabioda/uploads/2021/07/logo_red.png "Soluciones de Siguiente Generación")
+![alt text](![image](https://user-images.githubusercontent.com/87218714/140442545-64d194ef-3b86-4413-8f2b-9fdc4d7429ca.png))
 # Curso de Análisis Filogenéticos
 
 ## Sesión Práctica del Día 02
