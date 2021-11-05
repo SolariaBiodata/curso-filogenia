@@ -1,7 +1,7 @@
 ---
 permalink: /sesion02.html
 ---
-![alt text](![image](https://user-images.githubusercontent.com/87218714/140442545-64d194ef-3b86-4413-8f2b-9fdc4d7429ca.png))
+![alt text](![image](https://solariabiodata.com.mx/wp-content/uploads/2021/07/logo_red.png))
 # Curso de Análisis Filogenéticos
 
 ## Sesión Práctica del Día 02
