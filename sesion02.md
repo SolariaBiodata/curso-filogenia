@@ -1,7 +1,7 @@
 ---
 permalink: /sesion02.html
 ---
-![alt text](https://solariabiodata.com.mx/images/solaria_banner.png "Soluciones de Siguiente Generación")
+![alt text](https://solariabiodata.com.mx/wp-content/uploads/2021/07/logo_red.png "Soluciones de Siguiente Generación")
 # Curso de Análisis Filogenéticos
 
 ## Sesión Práctica del Día 02
