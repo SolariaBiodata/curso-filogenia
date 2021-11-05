@@ -89,6 +89,7 @@ Con este ejercicio, recuperaremos secuencias que ya han sido validadas en un an�
 6. Descargaremos algunos de los popsets encontrados en esta búsqueda.
 
 ##Instalación de programas en Ubuntu
+
 ###Lineas de comando para FigTree:
 Descargar el archivo de programa
 
