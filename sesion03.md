@@ -64,3 +64,11 @@ Repasaremos lo que hemos aprendido respecto a los métodos de alineamiento múlt
 ### Instrucciones (Parte 3)
 1. Dirigirse a la herramienta de (https://www.ebi.ac.uk/Tools/msa/tcoffee/)
 2. Repetiremos los pasos 3 al 8 de la Parte 1 de este mismo ejercicio.
+
+## Ejercicio Selección de Modelos
+
+
+## Ejercicio Filogenia
+
+
+
