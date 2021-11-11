@@ -1,10 +1,10 @@
 ---
 permalink: /sesion02.html
 ---
-![alt text](![image](https://solariabiodata.com.mx/wp-content/uploads/2021/07/logo_red.png))
+![alt text](https://solariabiodata.com.mx/wp-content/uploads/2021/07/logo_red.png "Soluciones de siguiente generación)
 # Curso de Análisis Filogenéticos
 
-## Sesión Práctica del Día 02
+## Sesión práctica del día 03
 
 ### Descripción
 En esta sesión aprenderemos lo necesario para realizar reconstrucciones filogenéticas, interpretar cómo se relacionan filogenéticamente las secuencias y renderizar gráficos listos para la publicación.
