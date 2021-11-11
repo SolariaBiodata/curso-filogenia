@@ -16,6 +16,7 @@ Para poder realizar este ejercicio, necesitaremos:
 1. Datos de secuencias:
     - Puedes usar las secuencias del gen _rpb2_ del curso, que encontrarás [en este link](data/rpb2.fasta)
     - Puedes usar también las secuencias del gen de _ha1_ del curso, las encontrarás en [este link](data/ha1.fasta)
+    - También puedes usa este [set de datos de virus](https://drive.google.com/file/d/13BnUDPnyalA1asf5A-ElOEHG6bSEyXt0/view?usp=sharing)
     - Puedes usar tus propias secuencias, en formato FASTA
 2. Acceso a las siguientes páginas de internet:
     - Página de [NCBI](https://www.ncbi.nlm.nih.gov/)
