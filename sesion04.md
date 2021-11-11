@@ -4,7 +4,7 @@ permalink: /sesion03.html
 ![alt text](https://solariabiodata.com.mx/wp-content/uploads/2021/07/logo_red.png "Soluciones de Siguiente Generación")
 # Curso de Análisis Filogenéticos
 
-## Sesión Práctica del Día 02
+## Sesión Práctica del Día 04
 
 ### Descripción
 En esta sesión aprenderemos lo necesario para realizar reconstrucciones filogenéticas, interpretar cómo se relacionan filogenéticamente las secuencias y renderizar gráficos listos para la publicación.
@@ -33,20 +33,6 @@ Para poder realizar este ejercicio, necesitaremos:
     - Vector [Azul](data/virus-blue.svg)
 5. Árbol Filogenético en Formato Newick:
     - Úsalo sólo si quieres repasar el ejercicio 02 y 03: [ha1.nwk](data/ha1.nwk)
-
-
-## Ejercicio 00: Selección de modelos filogenéticos
-### Descripción
-Vamos a hacer un ejercicio de selección de modelos
-
-### Instrucciones (Parte 1)
-1. Dirigirse a la dirección http://iqtree.cibiv.univie.ac.at/
-2. Seleccionar la pestaña de selección de modelo
-3. En la sección de entradas, mediante el botón 'Browse' Busca tu alineamiento seleccionalo.
-4. En la sección de opciones selecciona un criterio de selección.
-5. Clic en el botón de 'Submit' y esperar a los resultados.
-
-
 
 ## Ejercicio 01: Reconstrucción Filogenética
 ### Descripción
