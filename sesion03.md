@@ -65,10 +65,40 @@ Repasaremos lo que hemos aprendido respecto a los métodos de alineamiento múlt
 1. Dirigirse a la herramienta de (https://www.ebi.ac.uk/Tools/msa/tcoffee/)
 2. Repetiremos los pasos 3 al 8 de la Parte 1 de este mismo ejercicio.
 
-## Ejercicio Selección de Modelos
+
+## Ejercicio 03: Selección de modelos filogenéticos
+### Descripción
+Vamos a hacer un ejercicio de selección de modelos
+
+### Instrucciones (Parte 1)
+1. Dirigirse a la dirección http://iqtree.cibiv.univie.ac.at/
+2. Seleccionar la pestaña de selección de modelo
+3. En la sección de entradas, mediante el botón 'Browse' Busca tu alineamiento seleccionalo.
+4. En la sección de opciones selecciona un criterio de selección.
+5. Clic en el botón de 'Submit' y esperar a los resultados.
 
 
-## Ejercicio Filogenia
 
+## Ejercicio 04: Reconstrucción Filogenética
+### Descripción
+En este ejercicio, utilizaremos el programa de MEGA para realizar el proceso indicado en la sesión de Métodos de Filogenia. Para lo anterior, reutilizaremos las secuencias que ya habíamos descargado en la sesión 01 de este mismo curso.
+
+### Instrucciones
+
+6. Podemos hacer varias actividades, como computar la matriz de distancias (entre cada una de las secuencias) o calcular el mejor modelo para una reconstrucción por Máxima Verosimilitud
+7. Para realizar la filogenia, nos ubicamos en _‘Phylogeny’_
+8. Para este ejercicio, realizaremos un árbol por el **método de NJ**
+9. En la ventana de parametrización:
+    - `Test: Bootstrap (100)`
+    - `Maximum Composite Likelihood`
+    - `Substitutions: Transitions + Transversions`
+    - `Data Subset: Pairwise`
+10. ¡Hemos generado un par de filogenias a partir de secuencias descargadas!
+    - Árbol de **NJ**
+    - Árbol del método estadístico
+11. Exportaremos el árbol filogenético desde la pestaña _‘Image’_ a los siguientes formatos:
+    - Guardar como PDF
+    - Guardar como PNG
+12. Exportaremos el árbol en un formato especial, denominado por NWK desde la pestaña _‘File’_
 
 
