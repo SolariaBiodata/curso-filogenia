@@ -18,10 +18,9 @@ Recuerda que debes dar clic en el titulo de cada sesión para poder visualizar e
 1. Alineamiento con MEGA
 2. Alineamiento Online
 ### [Ejercicios de la Sesion 03](sesion03.md)
-1. Métodos de Filogenia
-
+1. Selección de modelos
+2. Métodos de Filogenia
 ### [Ejercicios de la Sesión 04](sesion04.md)
-
 1. Reconstrucción Filogenética
 2. Generación de Figuras
 3. Renderizado
