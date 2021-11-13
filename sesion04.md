@@ -1,5 +1,5 @@
 ---
-permalink: /sesion03.html
+permalink: /sesion04.html
 ---
 ![alt text](https://solariabiodata.com.mx/wp-content/uploads/2021/07/logo_red.png "Soluciones de Siguiente Generación")
 # Curso de Análisis Filogenéticos
