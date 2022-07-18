@@ -49,6 +49,7 @@ Realizaremos una búsqueda de secuencia por No. de Acceso, que consiste en un ID
 3. Almacenaremos la secuencia de nucleótidos en formato FASTA.
 4. Realizaremos un 'BLAST' a la secuencia, para identificar todos los elementos de respuesta a esta búsqueda.
 
+
 ## Ejercicio 03: Búsqueda Avanzada
 ### Descripción
 Utilizaremos utilidades adicionales en la búsqueda normal de NCBI para filtrar más a detalle el conjunto de la colección resultante.
@@ -88,9 +89,26 @@ Con este ejercicio, recuperaremos secuencias que ya han sido validadas en un an�
 5. En el campo de búsqueda avanzada, teclearemos `AND rpb2`.
 6. Descargaremos algunos de los popsets encontrados en esta búsqueda.
 
+<!-- 
+>NZ_CP088237.1:2186540-2188060 Ralstonia solanacearum strain UW251 chromosome
+--->
+
+
+## Ejercicio 06: BLAST desde una secuencia local
+### Descripción
+Con este ejercicio, realizaremos una búsqueda por homología desde una secuencia problema.
+### Instrucciones
+1. En NCBI, abrimos la página de la herramienta BLAST.
+2. En nuestra computadora, abriremos el archivo problema, denominado `sequence.fasta`  que encontrarás [en este link](data/sequence.fasta).
+3. Clic en el botón BLAST.
+4. Esperaremos a que se devuelva el resultado en la página
+5. Vamos a explorar los resultados, la tabla, los números de Coverage, E-Value, Identity.
+6. Descargaremos los resultados en un archivo en formato FASTA.
+
 
 ## Instalación de programas en Ubuntu
 
+<!---
 ### Lineas de comando para FigTree:
 
 Descargar el archivo de programa
@@ -108,16 +126,22 @@ Instalar java:
 Ejecutar FigTree:
 
 	java -jar figtree.jar 
+--->
 
-### Lineas de comando para MEGA:
+### Descarga de software MEGA:
 
-Descargar el archivo desde [MEGA](https://www.megasoftware.net/)
+1. Entra a la página del programa [MEGA](https://www.megasoftware.net/)
+2. Llena la encuesta y accede al link de descarga
+3. Sigue los pasos de instalación del programa
 
-Instalar el paquete de instalación local
+### Descarga de Notepad++
 
-	sudo apt install gdebi-core
+1. Entra a la página del programa [Notepad++](https://notepad-plus-plus.org)
+2. Da clic en el botón de descarga
+3. Sigue los pasos de instalación
 
-Instalar el MEGA
+### Descarga de IQ-Tree
 
-	sudo gdebi -n mega_11.0.9-1_amd64.deb 
-
+1. Entra a la página del programa [IQ-Tree](https://www.iqtree.org)
+2. Da clic en el botón de descarga
+3. Extrae los archivos dentro del zip en una ubicación que recuerdes.
