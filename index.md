@@ -19,9 +19,9 @@ Recuerda que debes dar clic en el titulo de cada sesión para poder visualizar e
 ### [Ejercicios de la Sesión 02](./sesion02)
 1. Alineamiento con MEGA
 2. Alineamiento Online
+
+
 <!--- 
-
-
 ### [Ejercicios de la Sesion 03](./sesion03)
 1. Selección de modelos
 2. Métodos de Filogenia
